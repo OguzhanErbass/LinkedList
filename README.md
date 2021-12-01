@@ -1,4 +1,4 @@
-# LinkedList veri yapısı mantığını anlamak  ve dosyadan veri alıp üzerinde işlem yapma mantığını geliştirmek için yaptığım proje.
+# Veri Yapıları dersi için LinkedList veri yapısının mantığını anlamak ve geliştirmek için yaptığım proje.
 #
 
 #  Kayit_dosyasi.txt dosyasındaki  ad, soyad, Tc gibi verileri alarak LinkedListe kayıt eder.
